@@ -1,6 +1,6 @@
 # frontend
 
-> My divine Nuxt.js project
+> NuxtJS or NextJS? 😃
 
 ## Build Setup
 
