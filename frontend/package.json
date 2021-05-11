@@ -1,0 +1,26 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "My divine Nuxt.js project",
+  "author": "Matilde Enevoldsen",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/axios": "^5.12.4",
+    "@nuxtjs/dotenv": "^1.4.1",
+    "@nuxtjs/pwa": "^3.3.3",
+    "@nuxtjs/style-resources": "^1.0.0",
+    "ant-design-vue": "^1.7.2",
+    "node-sass": "^5.0.0",
+    "nuxt": "^2.14.12",
+    "sass-loader": "^10.1.0",
+    "vue-core-video-player": "^0.2.0"
+  },
+  "devDependencies": {}
+}
