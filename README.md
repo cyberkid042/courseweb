@@ -1,6 +1,7 @@
 # Course Platform
 
-This is a a project being built with Laravel 8 and NuxtJS, for Educational purposes
+This is a a project being built with Laravel 8 and NuxtJS, for Educational purposes.
+I will continue to work on this when I can, but feel free to fork it and build upon it.
 
 ## Getting Started
 
